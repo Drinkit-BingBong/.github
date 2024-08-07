@@ -1,4 +1,4 @@
-### <span style="background-color:#C0FFFF">음주 습관, 혼자여도, 함께여도 즐겁고 건강하게!</span>
+<span style="background-color:#C0FFFF">### 음주 습관, 혼자여도, 함께여도 즐겁고 건강하게!</span>
 # **건강한 음주 촉진 플랫폼, 🍻드링킷🍷**
 
 ![image](https://github.com/user-attachments/assets/b237fcc3-438d-4ab1-a373-325c26541739)
