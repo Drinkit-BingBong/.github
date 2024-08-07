@@ -11,6 +11,7 @@
 현대인은 사람들과 어울리면서 본인의 주량을 넘어서 과음하지 않게끔, 본인에게 알맞은 음주 습관을 정립할 필요가 있다고 느껴 드링킷을 구상했습니다.
 ```
 
+
 ## 팀원 소개
 | 역할 | 이름 | 소속 |
 | --- | --- | --- |
@@ -20,6 +21,7 @@
 | 프론트엔드 | 김예원 | 이화여자대학교 컴퓨터공학과 |
 | 백엔드 | 유지민 | 이화여자대학교 휴먼기계바이오공학부 |
 | 백엔드 | 이라령 | 이화여자대학교 컴퓨터공학과 |
+
 
 
 ## 기술 스택
@@ -37,7 +39,9 @@
 기획·디자인:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 드링킷 세부 소개 자료
+
+
+## 드링킷 상세 소개
 ![image](https://github.com/user-attachments/assets/09e186f0-a874-4a96-a07d-35aeaf8678e5)
 ![image](https://github.com/user-attachments/assets/ab5f82c5-50ea-4970-ba83-d92940b8b044)
 ![image](https://github.com/user-attachments/assets/45d1ea1d-7987-4e5c-b51b-0de1ff1630bd)
